@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4917103a13a5b6bd4fb155dfd185158d",
+    "revision": "4cfa1108f145e2cca641286f21142c91",
     "url": "/cnebs.github.io/lunar-lights/index.html"
   },
   {
-    "revision": "e8b8f4da80c6ccbd3e1b",
+    "revision": "485878dffa8565f4d8b1",
     "url": "/cnebs.github.io/lunar-lights/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cnebs.github.io/lunar-lights/static/js/2.b4738025.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8b8f4da80c6ccbd3e1b",
-    "url": "/cnebs.github.io/lunar-lights/static/js/main.74216891.chunk.js"
+    "revision": "485878dffa8565f4d8b1",
+    "url": "/cnebs.github.io/lunar-lights/static/js/main.1ebea799.chunk.js"
   },
   {
     "revision": "4f770d1295d8c395eb2f",

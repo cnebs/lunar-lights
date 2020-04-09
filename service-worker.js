@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cnebs.github.io/lunar-lights/precache-manifest.df325b832176bb0e4b7d402408211746.js"
+  "/cnebs.github.io/lunar-lights/precache-manifest.8c5eea16d4452bbc7a14543494b5bcec.js"
 );
 
 self.addEventListener('message', (event) => {
